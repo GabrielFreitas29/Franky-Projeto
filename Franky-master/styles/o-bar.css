@@ -1,0 +1,29 @@
+.box-text {
+    background: rgba(94, 16, 162, 0.322);
+    display: flex;
+    justify-content: center;
+    
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 0.25rem;
+    margin-bottom: 2rem;
+
+    padding: 1rem;
+}
+
+.card {
+    width: 14rem;
+    height: 10rem; 
+    overflow: hidden;
+    border: none;
+}
+
+.title-maps {
+
+    border-top: 1px solid rgb(124, 20, 168);
+    margin-top: 2rem;
+    padding-top: 1rem;
+
+    font-family: pirate-font;
+    font-size: 6rem;
+    color: rgb(246, 246, 246);
+}

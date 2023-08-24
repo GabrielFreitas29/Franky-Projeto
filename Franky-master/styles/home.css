@@ -1,0 +1,31 @@
+
+
+.center {
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+}
+
+.align-end {
+    display: flex;
+    flex-direction: column;
+
+    align-items: flex-end;
+}
+
+.justfy-end {
+    display: flex;
+    flex-direction: column;
+
+    justify-content: end;
+}
+
+
+.text-box {
+    margin-top: 10rem;
+}
+
+.buttons {
+    margin-top: 5rem;
+}
